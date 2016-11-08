@@ -32,5 +32,6 @@ The tutorial is written for Visual Studio 2015 with the [Azure SDK for .NET 2.9]
 ## Run the sample
 Video guide,<br/>
 https://channel9.msdn.com/Shows/Cloud+Cover/Cloud-Cover-Episode-37-Multiple-Websites-in-a-Web-Role
+<br/>
 Text guide,<br/>
 http://www.wadewegner.com/2011/02/running-multiple-websites-in-a-windows-azure-web-role/
