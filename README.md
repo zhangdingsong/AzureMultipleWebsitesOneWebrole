@@ -8,7 +8,7 @@ author: msonecode
 
 ##Introduction
 An example of how to host multiple websites within one Azure webrole using Visual Studio 2015. This is a supplement and implement of Azure official video: [Multiple Websites in a Web Role](https://channel9.msdn.com/Shows/Cloud+Cover/Cloud-Cover-Episode-37-Multiple-Websites-in-a-Web-Role).  Because that post is dated 2011, maybe updates for the past years allows for a more friendly and better approach. This post will give you the latest version of implementation.
-<br/>
+<br/><br/>
 Video guide,<br/>
 https://channel9.msdn.com/Shows/Cloud+Cover/Cloud-Cover-Episode-37-Multiple-Websites-in-a-Web-Role
 <br/>
