@@ -38,10 +38,13 @@ The tutorial is written for Visual Studio 2015 with the [Azure SDK for .NET 2.9]
 1.	Please first download my test VS solution MultipleWebSite.zip for your reference.
 2.	After you downloaded, please unzip it and open the main “MultiWebsitesOneWebRole” solution as Administrator.
 Switch to ServiceDefinition.csdef file, replace the highlight parts as your actual path.
-<img src="https://github.com/zhangdingsong/AzureMultipleWebsitesOneWebrole/blob/master/1.jpg">
+<img src="https://github.com/zhangdingsong/AzureMultipleWebsitesOneWebrole/blob/master/2.jpg">
 3.	Add below info into your host file.
+<img src="https://github.com/zhangdingsong/AzureMultipleWebsitesOneWebrole/blob/master/3.jpg">
 4.	Ping to check if the dns name can be used.
+<img src="https://github.com/zhangdingsong/AzureMultipleWebsitesOneWebrole/blob/master/4.jpg">
 5.	Run the solution, and visit three websites.
+<img src="https://github.com/zhangdingsong/AzureMultipleWebsitesOneWebrole/blob/master/1.jpg">
 
 Reference:
 Below are some useful links, you will need them before your real action.
