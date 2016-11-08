@@ -46,14 +46,14 @@ Switch to ServiceDefinition.csdef file, replace the highlight parts as your actu
 5.	Run the solution, and visit three websites.<br/>
 <img src="https://github.com/zhangdingsong/AzureMultipleWebsitesOneWebrole/blob/master/1.jpg">
 
-##Reference
-Below are some useful links, you will need them before your real action.
+##Reference<br/>
+Below are some useful links, you will need them before your real action.<br/>
 
-[Some notes that you might need to know when you start to deploy your websites]
-How to setting up CNAMEs for your domain:
+[Some notes that you might need to know when you start to deploy your websites]<br/>
+How to setting up CNAMEs for your domain:<br/>
 http://blog.smarx.com/posts/custom-domain-names-in-windows-azure
 <br/>
-Tips for Publishing Multiple Sites in a Web Role:
+Tips for Publishing Multiple Sites in a Web Role:<br/>
 https://michaelcollier.wordpress.com/2013/01/14/multiple-sites-in-a-web-role/<br/>
 https://kellyhpdx.wordpress.com/2012/04/11/deploying-multiple-web-applications-to-a-single-azure-instance-and-applying-web-config-transforms-correctly/<br/>
 https://www.intertech.com/Blog/windows-azure-multiple-web-sites/<br/>
@@ -62,6 +62,6 @@ http://www.structuretoobig.com/post/2012/01/17/One-Azure-Web-Role-Multiple-Websi
 http://weblogs.asp.net/gunnarpeipman/deploying-independent-web-applications-to-windows-azure-using-single-web-role<br/>
 http://stackoverflow.com/questions/21796881/multiple-sites-within-one-azure-webrole<br/>
 
-How to configure the Azure Cloud Service Project to compile all the associated webs within a single web role:
+How to configure the Azure Cloud Service Project to compile all the associated webs within a single web role:<br/>
 http://stackoverflow.com/questions/15536819/azure-web-role-multiple-websites-dont-compile-when-debugger-is-run-in-visual<br/>
 
